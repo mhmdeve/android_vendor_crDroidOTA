@@ -4,7 +4,7 @@
 Device Maintainer: platinumthis
 Device specific changes:
 
-* Fixed CPU info, it showes now currently CPU temp instead of Battery temperature
+* Fixed CPU info, it showes now correct CPU temp instead of Battery temperature
 * Tuned LITTEL governor and big one
 * Useing now ROW as I/0 scheduler, i tested a lot and in UI and games it woks better, there some governors which dont give the fluid i want for this device, so i decided to use ROW now
 * Entropy Read and Write increased too (READ) 448 and 192 (WRITE)

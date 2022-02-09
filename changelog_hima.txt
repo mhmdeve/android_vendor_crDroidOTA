@@ -1,96 +1,67 @@
 ====================
-     01-31-2022
+     02-09-2022
 ====================
 Device Maintainer: platinumthis
-Device specific changes: Improved some I/O speed 
+Device specific changes:
+
+* Tuned LITTEL governor and big one
+* Useing now ROW as I/0 scheduler, i tested a lot and in UI and games it woks better, there some governors which dont give the fluid i want for this device, so i decided to use ROW now
+* Entropy Read and Write increased too (READ) 448 and 192 (WRITE)
+* Limitted LITTEL cluster to 1.5 ghz, this is perfectly fine and runs on a good voltage lvl which help´s the Battery a lot in decreased hicups during high clock ,which allow to stay most the time under -1000mv
+* Played around the FM Radio and was abel to get it reconized in /dev as /radio0 expected but currently me lac of time to get it fully working.
+
 
 ====================
-     01-30-2022
+     02-08-2022
 ====================
 
-   * frameworks/base
-04eed218c048 New translations (#758)
+====================
+     02-07-2022
+====================
 
-   * packages/apps/crDroidSettings
-bc024bf8 New Crowdin updates (#855)
+====================
+     02-06-2022
+====================
+
+   * device/htc/hima
+42a93db Merge pull request #1 from pckotzer/lineage-18
+f849bcb Initial Beginning
+d70d9e2 Initial Beginning
+
+====================
+     02-05-2022
+====================
+
+   * frameworks/av
+6572cab6a0 Merge 'lineage-18.1' into 11.0
+
+====================
+     02-04-2022
+====================
+
+====================
+     02-03-2022
+====================
+
+   * hardware/qcom/sm7250/display
+2233dfbf composer: Apply color transform only on power mode change.
+
+====================
+     02-02-2022
+====================
+
+====================
+     02-01-2022
+====================
+
+====================
+     01-31-2022
+====================
+
+   * frameworks/av
+e03eedb10b cameraserver: fix deadlock scenario in torchModeStatusChanged callback.
+cd4308500c Revert "cameraservice: Avoid calling getSystemCameraKind if the camera was not mapped yet"
 
    * packages/resources/devicesettings
 de23ecb devicesettings: Add strings for MotoActions
-
-====================
-     01-29-2022
-====================
-
-   * packages/apps/crDroidSettings
-c3d9b23d New Crowdin updates (#852)
-
-====================
-     01-28-2022
-====================
-
-====================
-     01-27-2022
-====================
-
-====================
-     01-26-2022
-====================
-
-   * device/qcom/sepolicy_vndr
-6c122b26 sepolicy: Fix genfscon for kona
-
-   * packages/apps/crDroidSettings
-9e6d4fe2 New Crowdin updates (#850)
-
-====================
-     01-25-2022
-====================
-
-   * build/soong
-45f8d0221 soong: Allow flock and curl
-
-====================
-     01-24-2022
-====================
-
-   * frameworks/base
-88b6db066318 Revert "Fix PixelCopy & BQ crop"
-
-   * frameworks/native
-d03a4e0267 Revert "AHB: add camera usage bits to vndk"
-ae369167b8 Revert "Add a better getLastQueuedBuffer"
-
-====================
-     01-23-2022
-====================
-
-   * external/sqlite
-c7801f2 Update SQlite to v3.37.2
-
-   * frameworks/base
-c8437eb67a89 New Crowdin updates (#754)
-4e349cd555cf New translations (#752)
-
-   * packages/apps/Launcher3
-fdffcdbfc0 New Crowdin updates (#196)
-
-   * packages/apps/SettingsIntelligence
-da232f4 SettingsIntelligence: Search: Skip showing a few packages
-
-   * packages/apps/crDroidSettings
-a7d4e0bc New Crowdin updates (#847)
-
-====================
-     01-22-2022
-====================
-
-   * frameworks/base
-74e7203660a8 SystemUI: Skip checking package unless required
-
-   * packages/inputmethods/LatinIME
-c42a3d1e9 LatinIME: Properly refresh summary
-9af32fc17 LatinIME: Fix invisible icon
-
-   * packages/services/Telephony
-b1ecfacb5 Allow CS call without IMS registered under NR SA
 

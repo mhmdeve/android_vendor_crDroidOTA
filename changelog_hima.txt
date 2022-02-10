@@ -1,5 +1,5 @@
 ====================
-     02-09-2022
+     02-10-2022
 ====================
 Device Maintainer: platinumthis
 Device specific changes:
@@ -11,14 +11,27 @@ Device specific changes:
 * Limitted LITTEL cluster to 1.5 ghz, this is perfectly fine and runs on a good voltage lvl which help´s the Battery a lot in decreased hicups during high clock ,which allow to stay most the time under -1000mv
 * Played around the FM Radio and was abel to get it reconized in /dev as /radio0 expected but currently me lac of time to get it fully working.
 
+====================
+     02-09-2022
+====================
 
 ====================
      02-08-2022
 ====================
 
+   * frameworks/base
+3157d91e0ce1 New Crowdin updates (#769)
+
 ====================
      02-07-2022
 ====================
+
+   * frameworks/base
+7f88430b8e0e New Crowdin updates (#767)
+
+   * packages/apps/crDroidSettings
+e92944e1 crDroidSettings: Fix seekbar icon layout (#865)
+8afbc450 New Crowdin updates (#860)
 
 ====================
      02-06-2022
@@ -29,12 +42,12 @@ Device specific changes:
 f849bcb Initial Beginning
 d70d9e2 Initial Beginning
 
+   * frameworks/av
+6572cab6a0 Merge 'lineage-18.1' into 11.0
+
 ====================
      02-05-2022
 ====================
-
-   * frameworks/av
-6572cab6a0 Merge 'lineage-18.1' into 11.0
 
 ====================
      02-04-2022
@@ -54,15 +67,4 @@ d70d9e2 Initial Beginning
 ====================
      02-01-2022
 ====================
-
-====================
-     01-31-2022
-====================
-
-   * frameworks/av
-e03eedb10b cameraserver: fix deadlock scenario in torchModeStatusChanged callback.
-cd4308500c Revert "cameraservice: Avoid calling getSystemCameraKind if the camera was not mapped yet"
-
-   * packages/resources/devicesettings
-de23ecb devicesettings: Add strings for MotoActions
 

@@ -1,28 +1,28 @@
 {
-	"response": [
-		{
-			"maintainer": "Lup Gabriel (gwolfu)",
-			"oem": "OnePlus",
-			"device": "OnePlus 7 Pro",
-			"filename": "crDroidAndroid-14.0-20231222-guacamole-v10.0.zip",
-			"download": "https://sourceforge.net/projects/crdroid/files/guacamole/10.x/crDroidAndroid-14.0-20231222-guacamole-v10.0.zip/download",
-			"timestamp": 1703207776,
-			"md5": "c8ae4816eb2b86defe415298ab5ba3c4",
-			"sha256": "011837d4aca6e7b7323cb8d9fcb4ca7f23319a34089cce658262ce63e63c2de9",
-			"size": 1005711773,
-			"version": "10.0",
-			"buildtype": "Weekly",
-			"forum": "https://xdaforums.com/t/4640828",
-			"gapps": "https://nikgapps.com/crdroid-official",
-			"firmware": "https://sourceforge.net/projects/crdroid/files/guacamole/10.x/firmware/OP7Pro%20firmware%20flash%20tool%20H.41.zip/download",
-			"modem": "",
-			"bootloader": "",
-			"recovery": "https://sourceforge.net/projects/crdroid/files/guacamole/10.x/recovery/",
-			"paypal": "https://paypal.me/gwolf2u",
-			"telegram": "https://t.me/crDroidOP7Pro",
-			"dt": "https://github.com/crdroidandroid/android_device_oneplus_guacamole",
-			"common-dt": "https://github.com/crdroidandroid/android_device_oneplus_sm8150-common",
-			"kernel": "https://github.com/crdroidandroid/android_kernel_oneplus_sm8150"
-		}
-	]
+    "response": [
+            {
+                    "maintainer": "Master",
+                    "oem": "OnePlus",
+                    "device": "OnePlus 7 Pro",
+                    "filename": "evolution_guacamole-ota-uq1a.231205.015-12270841-SPECIAL.zip",
+                    "download": "https://sourceforge.net/projects/evolutionx-guacamole/files/evolution_guacamole-ota-uq1a.231205.015-12270841-SPECIAL.zip/download",
+                    "timestamp": 1703651645,
+                    "md5": "3dc93a42dc38018f383b8f127d3c4dd5",
+                    "sha256": "dfd2685b21320d66b3300b5f57b1f87c938a6c56de060d0a42725c4776089d05",
+                    "size": 1664220763,
+                    "version": "14.0",
+                    "buildtype": "Weekly",
+                    "forum": "https://xdaforums.com/t/rom-14-0-guacamole-oos-cam-evolutionx-8-oneplus-7-pro.4637863/",
+                    "gapps": "",
+                    "firmware": "",
+                    "modem": "",
+                    "bootloader": "",
+                    "recovery": "https://sourceforge.net/projects/crdroid/files/guacamole/10.x/recovery/",
+                    "paypal": "http://www.patreon.com/mhmdeveloper",
+                    "telegram": "https://t.me/evox_guacamole",
+                    "dt": "https://github.com/mhmdeve/device_oneplus_guacamole",
+                    "common-dt": "",
+                    "kernel": "https://github.com/mhmdeve/kernel_oneplus_sm8150"
+            }
+    ]
 }

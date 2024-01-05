@@ -1,4 +1,8 @@
-Added New OTA Updater with Local Update
-Switch back to Previous Kernel (Smoother then ever)
-Fixed Few Sepolicy issues
-many more changes but lazy to mention
+Updated to JAN Security Patch
+Updated kernel to 0.7.2
+Few more fixes for Updater
+etc...
+Special Thanks to Anil Nageshwaran for Always Providing GCP
+Special Thanks to Thorsten H., Joan Ramon Badia, GameLogic for donation
+
+HAPPY NEW YEAR

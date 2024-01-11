@@ -1,5 +1,8 @@
-Add MotoDolby (Fully Functional and Updated)
-Add New OnePlus Settings(Alert Slider Customizations, Vibrations Strength Control etc..)
-Fix Auth Diaglog Issue
-App Lock is Added in source
-etc...
+Updated KernelSU to v0.7.5
+Enable APK Verify
+Add Support for FS Verify
+Built kernel on clang 17.0.4
+Enable OPlus Vibration Haptic
+Add Support for screen of FOD
+Added option to Swipe to to unlock using faceunlock
+Sync to Latest EVO source

@@ -1,8 +1,5 @@
-Updated KernelSU to v0.7.5
-Enable APK Verify
-Add Support for FS Verify
-Built kernel on clang 17.0.4
-Enable OPlus Vibration Haptic
-Add Support for screen of FOD
-Added option to Swipe to to unlock using faceunlock
-Sync to Latest EVO source
+Fixed Camera Motor issue with faceunlock
+Fixed Portrait Mode and depth Effect
+Added Google Bootanimation
+Fix few Sepolicy issues
+Sync to Latest Evo source

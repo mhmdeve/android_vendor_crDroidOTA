@@ -1,5 +1,12 @@
-Fixed Camera Motor issue with faceunlock
-Fixed Portrait Mode and depth Effect
-Added Google Bootanimation
-Fix few Sepolicy issues
-Sync to Latest Evo source
+Added firmware inside the zip (Please Use Adb Sideload this time after that OTAs will working fine)
+Enable OneUI varient of Google Messages (once you flash Update, Make sure to Clear cache for Play Store and reboot then Update Google Messages)
+Display (SDM) blobs from LA.UM.9.1.r1-11500.02-SMxxx0.QSSI12.0
+Fixed Issue when device not woke up when locked
+Fixed Clean flash from Recovery
+Improved Vibration
+Improved WIFI stability
+Switch to two stage mounting (More stable)
+Improved FOD Icon padding and match to OOS12
+
+NOTE: Please Backup Data before Flashing! Dirty Flash will work But just for safety
+SIDELOAD this release Ota will Not work this build only

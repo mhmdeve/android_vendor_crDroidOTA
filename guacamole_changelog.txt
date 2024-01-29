@@ -1,12 +1,10 @@
-Added firmware inside the zip (Please Use Adb Sideload this time after that OTAs will working fine)
-Enable OneUI varient of Google Messages (once you flash Update, Make sure to Clear cache for Play Store and reboot then Update Google Messages)
-Display (SDM) blobs from LA.UM.9.1.r1-11500.02-SMxxx0.QSSI12.0
-Fixed Issue when device not woke up when locked
-Fixed Clean flash from Recovery
-Improved Vibration
-Improved WIFI stability
-Switch to two stage mounting (More stable)
-Improved FOD Icon padding and match to OOS12
+Add Sound Trigger Support
+Improved Audio output and Bluetooth Support
+Improved Kernel compatibility
+Remove unnecessary QTI logkit directories
+Drop atrace HIDL (unnecessary)
+Disable cnss_diag service (unnecessary|improve performance)
+Based on Latest Evo source
+Fix Screen off FOD (Evolver/Lock Screen/UDFPS Customization)
 
-NOTE: Please Backup Data before Flashing! Dirty Flash will work But just for safety
-SIDELOAD this release Ota will Not work this build only
+I need you Support. Show your love with donation

@@ -1,10 +1,13 @@
-Add Sound Trigger Support
-Improved Audio output and Bluetooth Support
-Improved Kernel compatibility
-Remove unnecessary QTI logkit directories
-Drop atrace HIDL (unnecessary)
-Disable cnss_diag service (unnecessary|improve performance)
-Based on Latest Evo source
-Fix Screen off FOD (Evolver/Lock Screen/UDFPS Customization)
+Fixed issue when ringer was not working on calls
+Fixed IMS video calls
+Improve Bootup speed and disabled unnecessary suff
+Improved Dolby audio output
+Improved Bluetooth A2DP output 
+Fixed issue with Car Bluetooth connection
+Enable Incremental FS for faster Update installation
+Based on latest Evox source
+Smooth and more stable then before
 
-I need you Support. Show your love with donation
+Last update Until I get donations. I can;t affored my developement
+expensis.
+Your support is necessory

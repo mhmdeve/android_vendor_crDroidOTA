@@ -1,13 +1,7 @@
-Fixed issue when ringer was not working on calls
-Fixed IMS video calls
-Improve Bootup speed and disabled unnecessary suff
-Improved Dolby audio output
-Improved Bluetooth A2DP output 
-Fixed issue with Car Bluetooth connection
-Enable Incremental FS for faster Update installation
-Based on latest Evox source
-Smooth and more stable then before
-
-Last update Until I get donations. I can;t affored my developement
-expensis.
-Your support is necessory
+audio HAL: Enable RT priority inheritance
+Fix UDFPS Icon
+Improved CPU Usage
+Improved Stability
+Based on latest Evo source
+FEB Patch Merged
+KernelSU Removed by Default

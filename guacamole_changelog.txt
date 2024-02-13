@@ -1,7 +1,5 @@
-audio HAL: Enable RT priority inheritance
-Fix UDFPS Icon
-Improved CPU Usage
-Improved Stability
+HOT FIX
+Fix whatsapp crash
+Fix Banking app crash for Indian Users
 Based on latest Evo source
-FEB Patch Merged
-KernelSU Removed by Default
+Enable Secure NFC

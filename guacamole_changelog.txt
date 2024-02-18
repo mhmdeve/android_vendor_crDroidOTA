@@ -1,5 +1,3 @@
-HOT FIX
-Fix whatsapp crash
-Fix Banking app crash for Indian Users
-Based on latest Evo source
-Enable Secure NFC
+Build Kernel from Clang 18.0.0
+Sync to Latest Evo Source
+Added Passtrough Hack from Yaap

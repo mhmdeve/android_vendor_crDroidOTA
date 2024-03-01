@@ -1,3 +1,4 @@
-Build Kernel from Clang 18.0.0
-Sync to Latest Evo Source
-Added Passtrough Hack from Yaap
+Add Kernel Side Safetynet Pathes
+Improve FOD
+Probably fix Black Screen on Screen
+Based on Latest Evolution X Source

@@ -1,4 +1,6 @@
-Add Kernel Side Safetynet Pathes
-Improve FOD
-Probably fix Black Screen on Screen
-Based on Latest Evolution X Source
+Added back KernelSU by default (Most of the users use it)
+Reimport ALS sensors configs
+Sync to Latest Evo source before March release
+Most of the issues reported are from Evo source and should have been fixed
+
+Need to Pay my Internel Bill, Need support
